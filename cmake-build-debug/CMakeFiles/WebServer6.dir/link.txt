@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WebServer6.dir/thread_connection_job.c.o  -o WebServer6 

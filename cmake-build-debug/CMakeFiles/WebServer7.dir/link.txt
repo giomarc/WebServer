@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WebServer7.dir/init_server.c.o  -o WebServer7 

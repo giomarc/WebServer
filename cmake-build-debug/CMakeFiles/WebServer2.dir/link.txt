@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WebServer2.dir/allocation.c.o  -o WebServer2 

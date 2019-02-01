@@ -1,0 +1,31 @@
+# Build
+*.o
+*.lo
+*.la
+.DS_Store
+*.~
+
+# Eclipse
+.settings
+.project
+.cproject
+Exe
+Release
+Debug
+
+*~
+*.cache
+*.log
+config.status
+stamp-h1
+.libs
+.deps
+*.log
+*.cache
+*.status
+Makefile
+src/config.h
+libtool
+
+src/test
+src/test-static

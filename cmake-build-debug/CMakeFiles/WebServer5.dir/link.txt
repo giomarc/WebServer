@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WebServer5.dir/threadmanager.c.o  -o WebServer5 

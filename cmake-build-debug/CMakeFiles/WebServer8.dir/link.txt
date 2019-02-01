@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WebServer8.dir/util.c.o  -o WebServer8 

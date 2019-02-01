@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WebServer1.dir/file.c.o  -o WebServer1 

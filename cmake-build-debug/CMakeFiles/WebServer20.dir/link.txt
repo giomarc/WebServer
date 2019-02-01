@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WebServer20.dir/init_server.c.o  -o WebServer20 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/WebServer9.dir/libwurfl/src/normalizer.c.o  -o WebServer9 
